@@ -133,7 +133,7 @@ canvas{
     line-height: 1.5;
 }
 #page1>#left-text>h3{
-    color: #7c7c7c;
+    color: #FF0000;
     font-weight: 400;
 }
 #page2>#text1{
@@ -156,7 +156,7 @@ canvas{
     text-align: end;
 }
 #page2>#text2>p{
-    color: #7c7c7c;
+    color: #008000;
     font-weight: 400;
 }
 #page3>#text3{
@@ -166,7 +166,7 @@ canvas{
     text-align: end;
 }
 #page3>#text3>h3{
-    color: #7c7c7c;
+    color: #008000;
     font-weight: 400;
 }
 #page3>#text3>h1{
