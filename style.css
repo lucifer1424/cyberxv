@@ -16,25 +16,25 @@ html,body{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: #006400;
 }
 #page1{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: #006400;
 }
 #page2{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: #006400;
 }
 #page3{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: #006400;
 }
 canvas{
     position: relative;
